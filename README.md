@@ -1,0 +1,2 @@
+# HappierCore
+Core Module
