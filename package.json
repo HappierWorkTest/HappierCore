@@ -1,0 +1,22 @@
+{
+  "name": "happier-core",
+  "version": "1.0.0",
+  "description": "Core Module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HappierWorkTest/HappierCore.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HappierWorkTest/HappierCore/issues"
+  },
+  "homepage": "https://github.com/HappierWorkTest/HappierCore#readme",
+  "devDependencies": {
+    "node-git": "0.0.0"
+  }
+}

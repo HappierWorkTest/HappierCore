@@ -1,0 +1,15 @@
+{
+    "name": "HappierCore",
+    "version": "1.0.0",
+    "repo": "https://github.com/HappierWorkTest/HappierCore",
+    "dependencies": {
+        "HappierHire": "1.0.0",
+        "HappierPay": "1.0.0",
+        "HappierRequest": "1.0.0"
+    },
+    "repositories":{
+        "HappierHire": "https://github.com/HappierWorkTest/HappierHire",
+        "HappierPay": "https://github.com/HappierWorkTest/HappierPay",
+        "HappierRequest": "https://github.com/HappierWorkTest/HappierRequest"
+    }
+}
