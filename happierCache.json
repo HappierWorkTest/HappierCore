@@ -1,4 +1,8 @@
 {
-    "destination": "../cache",
-    "cache":{}
+  "destination": "../cache",
+  "cache": {
+    "HappierHire": "1.0.0",
+    "HappierPay": "1.0.0",
+    "HappierRequest": "1.0.0"
+  }
 }
